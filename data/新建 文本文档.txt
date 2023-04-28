@@ -1,0 +1,7 @@
+git init
+git config --global user.email"2930480089@qq.com" 
+git config --global user.name"Cskerrrrr" 
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Cskerrrrr/YOLOV5-RK3588.git
+git push origin master
