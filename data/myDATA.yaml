@@ -1,0 +1,8 @@
+train: C:/Users/KK/Desktop/yolov5/imagedata/dataSet_path/train.txt
+val: C:/Users/KK/Desktop/yolov5/imagedata/dataSet_path/val.txt
+
+# number of classes
+nc: 6
+
+# class names
+names: ["1", "2", "3", "4", "5", "6"]
